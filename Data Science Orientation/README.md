@@ -20,9 +20,11 @@ To verify the certificates, click the images to follow the links.
   <a href="https://www.credly.com/earner/earned/badge/fbf0ba8d-72b8-42e5-81b6-bbdd297bbb81">
     verify at
   </a>
+![Data Science Orientation](https://github.com/user-attachments/assets/07425b16-66da-4075-b104-65140dd7b69e)
 
 
-![Python Uses](https://github.com/user-attachments/assets/f7b2914c-82bf-4407-a707-6d7bd4af8f32)
+
+![2025-01-16_22-49](https://github.com/user-attachments/assets/f39af8e6-6cc9-441d-8951-f653b188cef0)
 
 </p>
 
