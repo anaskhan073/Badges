@@ -1,15 +1,14 @@
 
-# Data Science Orientation
-<p>This badge earner has a good understanding of why data science, artificial intelligence (AI) and machine learning are revolutionizing the way people do business and research around the world. They have general knowledge on what data science is today. <a href="https://www.coursera.org/learn/what-is-datascience?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge" target="_blank">Learn more ..</a></p>
+# Data Analysis with Python
+<p>This badge earner has the core skills in Data Analysis using Python. They can readily clean, visualize and summarize data using Pandas. Using Scikit-learn, the earner can develop Data Pipelines, construct Machine learning models for Regression and evaluate these models. <a href="https://www.coursera.org/learn/data-analysis-with-python?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge" target="_blank">Learn more ..</a></p>
 
 ## 📑 Skills Covered
-- <button type="button" class="btn btn-outline-info">AI</button>
-- <button type="button" class="btn btn-outline-info">Artificial Intelligence</button>
-- <button type="button" class="btn btn-outline-info">Critical Listening</button>
-- <button type="button" class="btn btn-outline-info">Critical Reading</button>
-- <button type="button" class="btn btn-outline-info">Data Science</button>
-- <button type="button" class="btn btn-outline-info">Machine Learning</button>
-- <button type="button" class="btn btn-outline-info">PWID-B0267600</button>
+- <button type="button" class="btn btn-outline-info">NumPy</button>
+- <button type="button" class="btn btn-outline-info">Pandas</button>
+- <button type="button" class="btn btn-outline-info">PWID-B0381400</button>
+- <button type="button" class="btn btn-outline-info">Python</button>
+- <button type="button" class="btn btn-outline-info">Scikit-learn</button>
+- <button type="button" class="btn btn-outline-info">SciPy</button>
 
 
 
@@ -17,16 +16,14 @@
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.credly.com/earner/earned/badge/fbf0ba8d-72b8-42e5-81b6-bbdd297bbb81">
+  <a href="https://www.credly.com/badges/9827216a-96eb-4e84-9690-dfaa48863d58">
     verify at
   </a>
 
-
-![Data Science Orientation](https://github.com/user-attachments/assets/a5ff6a8b-029b-484a-9599-5c4e78f56eea)
-
+![Data Analysis with Python](https://github.com/user-attachments/assets/94bdb7dc-f7c7-41a4-b91c-8c42737cc96a)
 
 
-![2025-01-16_22-49](https://github.com/user-attachments/assets/f39af8e6-6cc9-441d-8951-f653b188cef0)
+![2025-01-16_23-24](https://github.com/user-attachments/assets/6a429902-bb7b-4ab5-8a9f-749047d14105)
 
 </p>
 
