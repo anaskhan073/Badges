@@ -1,15 +1,13 @@
 
-# Data Science Orientation
-<p>This badge earner has a good understanding of why data science, artificial intelligence (AI) and machine learning are revolutionizing the way people do business and research around the world. They have general knowledge on what data science is today. <a href="https://www.coursera.org/learn/what-is-datascience?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge" target="_blank">Learn more ..</a></p>
+# Tools for Data Science
+<p>This badge earner has demonstrated their skill and understanding of how popular data science tools such as the Jupyter Notebook, RStudio, Zeppelin and Watson Studio are used, as well as the advantages and disadvantages of each tool. <a href="https://www.coursera.org/learn/open-source-tools-for-data-science?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge" target="_blank">Learn more ..</a> </P>
 
 ## 📑 Skills Covered
-- <button type="button" class="btn btn-outline-info">AI</button>
-- <button type="button" class="btn btn-outline-info">Artificial Intelligence</button>
-- <button type="button" class="btn btn-outline-info">Critical Listening</button>
-- <button type="button" class="btn btn-outline-info">Critical Reading</button>
-- <button type="button" class="btn btn-outline-info">Data Science</button>
-- <button type="button" class="btn btn-outline-info">Machine Learning</button>
-- <button type="button" class="btn btn-outline-info">PWID-B0267600</button>
+- <button type="button" class="btn btn-outline-info">Jupyter</button>
+- <button type="button" class="btn btn-outline-info">PWID-B0470500</button>
+- <button type="button" class="btn btn-outline-info">RStudio</button>
+- <button type="button" class="btn btn-outline-info">Watson Studio</button>
+- <button type="button" class="btn btn-outline-info">Zeppelin</button>
 
 
 
@@ -17,16 +15,17 @@
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.credly.com/earner/earned/badge/fbf0ba8d-72b8-42e5-81b6-bbdd297bbb81">
+  <a href="https://www.credly.com/badges/f60302be-44c7-4220-bbca-13f288809af8">
     verify at
   </a>
 
 
-![Data Science Orientation](https://github.com/user-attachments/assets/a5ff6a8b-029b-484a-9599-5c4e78f56eea)
+
+![Tools for Data Science](https://github.com/user-attachments/assets/a32c07c5-12d8-427f-82d4-dea050a029f5)
 
 
+![2025-01-16_22-58](https://github.com/user-attachments/assets/73d8da38-ea46-4f2f-a554-07e78cf79017)
 
-![2025-01-16_22-49](https://github.com/user-attachments/assets/f39af8e6-6cc9-441d-8951-f653b188cef0)
 
 </p>
 
