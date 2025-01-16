@@ -17,9 +17,8 @@ To verify the certificates, click the images to follow the links.
   <a href="https://www.credly.com/badges/6079eb65-c6c5-47af-9a20-58c7d71434e9">
     verify at
   </a>
+  
 ![Python for Data Science and AI](https://github.com/user-attachments/assets/2a9fb455-0369-492f-99c9-435b2772a77c)
-
-
 
 ![2025-01-16_23-13](https://github.com/user-attachments/assets/10b0d815-addc-4b38-956d-466b203ae701)
 
