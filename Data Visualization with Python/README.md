@@ -21,12 +21,10 @@ To verify the certificates, click the images to follow the links.
     verify at
   </a>
 
+![Data Visualization with Python](https://github.com/user-attachments/assets/44f314a4-42f3-40e2-ba5f-a074b3a120e6)
 
-![Data Science Orientation](https://github.com/user-attachments/assets/a5ff6a8b-029b-484a-9599-5c4e78f56eea)
+![2025-01-16_23-32](https://github.com/user-attachments/assets/f9ff7654-9216-4dbb-a249-23ec240459c0)
 
-
-
-![2025-01-16_22-49](https://github.com/user-attachments/assets/f39af8e6-6cc9-441d-8951-f653b188cef0)
 
 </p>
 
